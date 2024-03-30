@@ -1,11 +1,26 @@
 {
     "displayName": "Sixth Standard",
-    "fluxCapacitors": 0,
+    "fluxCapacitors": 3,
     "fluxVents": 0,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "6bgrp_heron_vi",
-    "hullMods": [],
+    "hullMods": [
+        "expanded_deck_crew"
+    ],
     "quality": 0.0,
-    "variantId": "6bgrp_heron_vi_custom",
-    "weaponGroups": []
+    "variantId": "6bgrp_heron_vi_standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 005": "pilum"
+            }
+        }
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing"
+    ]
 }

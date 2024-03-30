@@ -1,11 +1,16 @@
 {
     "displayName": "Sixth Standard",
-    "fluxCapacitors": 0,
-    "fluxVents": 0,
-    "goalVariant": false,
+    "fluxCapacitors": 4,
+    "fluxVents": 10,
+    "goalVariant": true,
     "hullId": "6bgrp_monitor_vi",
-    "hullMods": [],
-    "quality": 0.0,
-    "variantId": "6bgrp_monitor_vi_custom",
-    "weaponGroups": []
+    "hullMods": [
+        "frontemitter",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "6bgrp_monitor_vi_standard",
+    "weaponGroups": [],
+    "wings": ["broadsword_wing"]
 }
