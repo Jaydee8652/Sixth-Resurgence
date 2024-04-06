@@ -258,133 +258,143 @@
     "engineSlots": [
         {
             "location": [
-                -130.5, 0
+                -153.5, -21.5
             ],
-            "length": 96,
-            "width": 24,
-            "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
-        },
-        {
-            "location": [
-                -156.5, -81.5
-            ],
-            "length": 72,
+            "length": 89,
             "width": 20,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -150.5, -20.5
+                -153.5, 21.5
             ],
-            "length": 72,
+            "length": 89,
             "width": 20,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -157, 66.5
+                -161, -39.5
             ],
-            "length": 48,
-            "width": 12,
+            "length": 60.5,
+            "width": 16,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -158.5, 38.5
+                -161, 39.5
             ],
-            "length": 48,
-            "width": 12,
+            "length": 60.5,
+            "width": 16,
             "angle": 180,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -157.5, -66
+                -160.5, -53.5
             ],
-            "length": 48,
-            "width": 12,
+            "length": 59.5,
+            "width": 15,
             "angle": 180,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -160.5, -38.5
+                -160.5, 53.5
             ],
-            "length": 48,
-            "width": 12,
+            "length": 59.5,
+            "width": 15,
             "angle": 180,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -157.5, -52.5
+                -160, 64
             ],
-            "length": 48,
-            "width": 12,
+            "length": 59,
+            "width": 16,
             "angle": 180,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -157.5, 52.5
+                -160, -64
             ],
-            "length": 48,
-            "width": 12,
+            "length": 59,
+            "width": 16,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -155.5, 80
+                -159.5, -78
             ],
-            "length": 80,
-            "width": 20,
+            "length": 86.5,
+            "width": 17,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                -150.5, 20.5
+                -159.5, 78
             ],
-            "length": 80,
-            "width": 20,
+            "length": 86.5,
+            "width": 17,
             "angle": 180,
-            "contrailSize": 64,
-            "style": "MIDLINE"
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                35, 162.5
+                32.5, -163.5
             ],
-            "length": 32,
-            "width": 12,
-            "angle": 165,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "length": 47,
+            "width": 14,
+            "angle": 195.5,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         },
         {
             "location": [
-                35, -162.5
+                32.5, 163.5
             ],
-            "length": 32,
-            "width": 12,
-            "angle": 195,
-            "contrailSize": 128,
-            "style": "MIDLINE"
+            "length": 47,
+            "width": 14,
+            "angle": 164.5,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -131.5, 0
+            ],
+            "length": 84.5,
+            "width": 18,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -131.5, 0
+            ],
+            "length": 84.5,
+            "width": 18,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
         }
     ],
     "bounds": [

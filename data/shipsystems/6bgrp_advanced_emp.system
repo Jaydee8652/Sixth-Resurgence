@@ -1,0 +1,27 @@
+{
+	"id":"6bgrp_advanced_emp",
+	"type":"EMP",
+	"aiType":"EMP",
+	
+	"range":1000,
+	
+	"empDamage":700,
+	"damage":200,
+	"damageType":ENERGY,
+	
+	"effectColor1":[255,50,25,200],
+	"effectColor2":[255,75,50,255],
+
+
+	"useSound":"system_emp_emitter_activate",
+	"loopSound":"system_emp_emitter_loop",
+	"impactSound":"system_emp_emitter_impact",
+	"outOfUsesSound":"gun_out_of_ammo",
+	
+	"aiHints":{
+		"threatRange":1100,
+		"threatAmount":4,
+		"threatAngle":0,
+		"threatArc":360,
+	}
+}

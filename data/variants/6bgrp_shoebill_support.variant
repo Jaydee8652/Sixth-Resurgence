@@ -1,0 +1,60 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 11,
+    "fluxVents": 10,
+    "hullId": "6bgrp_shoebill",
+    "goalVariant": true,
+    "hullMods": [
+        "extendedshieldemitter",
+        "expanded_deck_crew",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "6bgrp_shoebill_support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "hurricane"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "devastator",
+                "WS 017": "devastator"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "sabotpod",
+                "WS 022": "sabotpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "sabot",
+                "WS 002": "sabot",
+                "WS 003": "sabot",
+                "WS 019": "harpoonpod",
+                "WS 020": "harpoonpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 016": "dualflak"}
+        }
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing"
+    ]
+}

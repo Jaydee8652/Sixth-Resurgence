@@ -1,0 +1,64 @@
+{
+    "displayName": "Sixth Standard",
+    "fluxCapacitors": 11,
+    "fluxVents": 10,
+    "hullId": "6bgrp_shoebill_vi",
+    "goalVariant": true,
+    "hullMods": [
+        "expanded_deck_crew",
+        "extendedshieldemitter",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "6bgrp_shoebill_vi_standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 017": "devastator"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 013": "devastator"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 016": "dualflak"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 020": "harpoonpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "harpoonpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 011": "sabotpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "sabot",
+                "WS 001": "hurricane",
+                "WS 002": "sabot",
+                "WS 003": "sabot",
+                "WS 022": "sabotpod"
+            }
+        }
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing"
+    ]
+}
