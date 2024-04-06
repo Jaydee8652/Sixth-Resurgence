@@ -2,7 +2,7 @@
 	"id":"sixthresurgence",
 	"name":"Sixth Resurgence",
 	"author":"Jaydee8652",
-	"version":"0.1.1",
+	"version":"0.1.3",
 	"description":"Adds Sixth Battlegroup variants of some ships, left behind before The Collapse. (Incompatible with Seventh Resurgence and VRI, theoretically more lore friendly)",
     "gameVersion": "0.97a-RC11",
 }
